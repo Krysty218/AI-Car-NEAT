@@ -1,2 +1,2 @@
 # RL-Car-NEAT
-RL Project
+RL Project Using the NEAT Algorithm for simulating Self Driving Cars
